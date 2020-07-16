@@ -1,4 +1,4 @@
-# 紧急通知
+#  紧急通知
 
 **6月23日(含)** 之前部署的老代码存在泄露账号密码的风险，已部署的童鞋赶紧处理一下！
 
@@ -56,4 +56,4 @@ Actions > Cloud189Checkin > build
 ![](http://tu.yaohuo.me/imgs/2020/06/b9e596c99f3835e0.png)
 
 此后，将会在每天10:00和22:00各签到一次  
-若有需求，可以在[.github/workflows/run.yml]中自行修改
+若有需求，可以在[.github/workflows/run.yml]中自行修改。
